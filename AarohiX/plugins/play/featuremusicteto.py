@@ -59,12 +59,12 @@ async def mmmezat(client, message):
 │᚜⦿ هيدرات
 │᚜⦿ اذكار 
 ╯⦿  بث مباشر للقنوات 
-[𝗦𝗼𝘂𝗿𝗰𝗲](https://t.me/xx6uxx) """,
+[𝗦𝗼𝘂𝗿𝗰𝗲](https://t.me/SW_MS) """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "αℓτυяĸy", url=f"https://t.me/X_II_H"),                        
+                        "𝐃𝐄𝐕 𝐊𝐀𝐑𝐄𝐅", url=f"https://t.me/KA_5N"),                        
                  ],[
                 InlineKeyboardButton(
                         "close", callback_data="close"),
