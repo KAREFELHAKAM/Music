@@ -64,12 +64,12 @@ async def mmmezat(client, message):
 │᚜⦿ هيدرات
 │᚜⦿ اذكار 
 ╯⦿  بث مباشر للقنوات 
-[سورس ميوزك العالم](https://t.me/vzo_a) """,
+[سورس ميوزك الحاكم](https://t.me/SW_MS) """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "قناه الـسورس", url=f"https://t.me/vzo_a"),                        
+                        "قناه الـسورس", url=f"https://t.me/SW_MS"),                        
                  ],[
                 InlineKeyboardButton(
                         "close", callback_data="close"),
